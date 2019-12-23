@@ -170,7 +170,7 @@ cd ${HOME}/tmp
 git clone https://github.com/examesh/ipy.git
 cd ipy
 pip install --requirement requirements.txt  # also installs pyinstaller
-./ipy -h
+./ipy.py -h
 ```
 
 To create the Linux x86-64 binary:
