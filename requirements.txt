@@ -1,0 +1,8 @@
+# Python 3.7.6
+
+# mandatory:
+netaddr==0.7.19
+PyYAML==5.2
+
+# optional for binary compiling:
+PyInstaller==3.5

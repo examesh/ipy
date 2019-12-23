@@ -1,0 +1,10 @@
+.git
+.atomignore
+.DS_Store
+.*.swp*
+.~*
+ipy.egg-info
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
